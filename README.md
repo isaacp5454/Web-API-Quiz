@@ -7,4 +7,4 @@ This project challenges us to use web api and javascript to create a quiz. My mo
 Clone this repository on your local computer using git clone. And then run the index.html file.
 
 ## Usage
-![Web-API-Quiz](images/coding-quiz.png)
+![Web-API-Quiz](coding-quiz.png)
